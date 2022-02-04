@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/tanir/AndroidStudioProjects/SegundaProva2022/app/src/main/res/layout/activity_main.xml" value="0.2824074074074074" />
+        <entry key="..\:/Users/tanir/AndroidStudioProjects/SegundaProva2022/app/src/main/res/layout/fragment_altera.xml" value="0.2824074074074074" />
+        <entry key="..\:/Users/tanir/AndroidStudioProjects/SegundaProva2022/app/src/main/res/layout/fragment_cadastro.xml" value="0.2824074074074074" />
+        <entry key="..\:/Users/tanir/AndroidStudioProjects/SegundaProva2022/app/src/main/res/layout/fragment_detalhes.xml" value="0.2574074074074074" />
+        <entry key="..\:/Users/tanir/AndroidStudioProjects/SegundaProva2022/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Users/tanir/AndroidStudioProjects/SegundaProva2022/app/src/main/res/layout/fragment_sobre.xml" value="0.2552083333333333" />
+        <entry key="..\:/Users/tanir/AndroidStudioProjects/SegundaProva2022/app/src/main/res/layout/layout_gaveta.xml" value="0.2552083333333333" />
+        <entry key="..\:/Users/tanir/AndroidStudioProjects/SegundaProva2022/app/src/main/res/layout/pessoa_layout.xml" value="0.1" />
+        <entry key="..\:/Users/tanir/AndroidStudioProjects/SegundaProva2022/app/src/main/res/menu/ajuda_menu.xml" value="0.28888888888888886" />
+        <entry key="..\:/Users/tanir/AndroidStudioProjects/SegundaProva2022/app/src/main/res/menu/menu_principal.xml" value="0.2552083333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
